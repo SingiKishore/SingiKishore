@@ -69,7 +69,9 @@ Web projects built to practice frontend development and create user-friendly int
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/
+singi-kishore-8b4aa5357
+
 - 🐙 GitHub: 
 
 ---
