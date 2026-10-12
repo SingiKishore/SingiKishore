@@ -24,7 +24,8 @@ I'm a Computer Science Engineering student passionate about programming, softwar
 ### Web Technologies
 - HTML
 - CSS
-- JavaScript *(learning)*
+- JavaScript
+- Python Full Stack With AI *(learning)*
 
 ### AI & Machine Learning
 - Machine Learning fundamentals
